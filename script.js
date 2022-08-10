@@ -89,7 +89,7 @@ mobileMenuIcon.addEventListener("click", function () {
 });
 
 scLink.addEventListener("click", function () {
-  closeMobileMenu();
+  closeMobileMenu()
 });
 
 packLink.addEventListener("click", function () {
