@@ -109,7 +109,9 @@ section {
 
 h1,
 h2,
-h3 {
+h3, 
+h4, 
+h6 {
   font-family: var(--font-title);
 }
 
@@ -119,7 +121,6 @@ h2 {
 }
 
 h4 {
-  font-family: var(--font-title);
   font-size: 1.7rem;
 }
 
